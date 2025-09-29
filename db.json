@@ -1,6 +1,7 @@
 {
   "testing": [
     {
+      "id": 1,
       "themeV2": {
         "loginBox": {
           "forgotPassword": {
