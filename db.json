@@ -6,7 +6,16 @@
           "display": "flex",
           "justifyContent": "center",
           "alignItems": "center",
-          "margin": "0 auto"
+          "border": "1px solid red",
+          "margin": "0 auto",
+"responsive": {
+    "sm": {
+      "display": "none"
+    },
+    "md": {
+      "margin": "16px auto"
+    }
+  }
         }
       },
       "rootStyle": {
