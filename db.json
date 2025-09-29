@@ -8,12 +8,9 @@
       },
       "forgotPassword": {
         "rootStyle": {
-          "display": "none",
-          
-        },
-        
-      },
-      
+          "display": "none"
+        }
+      }
     }
   }
 }
