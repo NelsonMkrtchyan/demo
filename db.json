@@ -1,11 +1,13 @@
 {
-  "themeV2": {
-    "loginBox": {
-      "forgotPassword": {
-        "rootStyle": {
-          "display": "none"
+  "themeV2": [
+    {
+      "loginBox": {
+        "forgotPassword": {
+          "rootStyle": {
+            "display": "none"
+          }
         }
       }
     }
-  }
+  ]
 }
