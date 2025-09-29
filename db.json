@@ -1,11 +1,6 @@
 {
   "themeV2": {
     "loginBox": {
-      "rootStyle": {
-        "& [data-test-id=\"password-box\"]": {
-          "display": "none"
-        }
-      },
       "forgotPassword": {
         "rootStyle": {
           "display": "none"
