@@ -4,15 +4,29 @@
       "id": 1,
       "themeV2": {
         "loginBox": {
-"rootStyle": {
-          "& [data-test-id=\"password-box\"]": {
-            "display": "none"
-          }
-        },
-          "forgotPassword": {
-            "rootStyle": {
+          "rootStyle": {
+            "& [data-test-id=\"forgot-password-btn\"]": {
               "display": "none"
             }
+          }
+        },
+        "adminPortal": {
+          "pages": {
+            "profile": {
+              "fieldsProperties": {
+                "username": {
+                  "appearance": "hidden"
+                }
+              }
+            }
+          }
+        }
+      },
+      "localizations": {
+        "en": {
+          "errors": {
+            "ER-01196": "Invalid credentials",
+            "ER-01078": "Incorrect username or password"
           }
         }
       }
