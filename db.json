@@ -5,7 +5,15 @@
         "& [data-test-id=\"password-box\"]": {
           "display": "none"
         }
-      }
+      },
+      "forgotPassword": {
+        "rootStyle": {
+          "display": "none",
+          
+        },
+        
+      },
+      
     }
   }
 }
