@@ -1,11 +1,11 @@
 {
- "themeV2": {
+  "themeV2": {
     "loginBox": {
       "rootStyle": {
-        '& [data-test-id="forgot-password-btn"]': {
-          display: 'none', 
-        },
-      },
-    },
-  },
+        "& [data-test-id=\"forgot-password-btn\"]": {
+          "display": "none"
+        }
+      }
+    }
+  }
 }
