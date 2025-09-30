@@ -42,6 +42,9 @@
             },
              "jobTitle": {
               "appearance": "hidden"
+            },
+             "name": {
+              "appearance": "hidden"
             }
           }
         }
