@@ -30,6 +30,12 @@
           "fieldsProperties": {
             "username": {
               "appearance": "hidden"
+            },
+	    "email": {
+              "appearance": "hidden"
+            },
+            "phoneNumber": {
+              "appearance": "hidden"
             }
           }
         }
