@@ -25,16 +25,7 @@
 	    "email": {
               "appearance": "hidden"
             },
-	    "address": {
-              "appearance": "hidden"
-            },
             "phoneNumber": {
-              "appearance": "hidden"
-            },
-             "jobTitle": {
-              "appearance": "hidden"
-            },
-             "name": {
               "appearance": "hidden"
             }
           }
