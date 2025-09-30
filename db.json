@@ -27,10 +27,8 @@
     "adminPortal": {
       "pages": {
         "profile": {
-          "profileInfo":{
-            "content":{
-              "display": "none"
-            }
+          "content":{
+            "display": "none"
           },
           "fieldsProperties": {
             "username": {
