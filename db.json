@@ -27,6 +27,11 @@
     "adminPortal": {
       "pages": {
         "profile": {
+          "profileInfo":{
+            "content":{
+              "display": "none"
+            }
+          },
           "fieldsProperties": {
             "username": {
               "appearance": "hidden"
